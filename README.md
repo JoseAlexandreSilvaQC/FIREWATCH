@@ -53,3 +53,9 @@ Final experimental results are pending recovery and validation.
 
 **Area 52**
 NASA Space Apps Challenge 2026
+
+##  ive Application
+
+Explore the FIREWATCH prototype:
+
+🔗 [Open FIREWATCH Web App](https://firewatch-f8bm7cbhsqua7spxarqxgo.streamlit.app/)
